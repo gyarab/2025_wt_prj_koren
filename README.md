@@ -1,4 +1,4 @@
-# Databáze aut (Django projekt)
+# Databáze aut
 
 Databáze aut je lehká webová aplikace v Djangu, která slouží jako osobní portál pro správu a prohlížení automobilů. Aplikace umožňuje ukládat informace o různých vozidlech, filtrovat je, zobrazovat detailní data a mít vlastní přehledný katalog aut. Veškerá data jsou ukládána v databázi, žádné lokální soubory ani složité servery nejsou potřeba.
 
