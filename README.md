@@ -68,3 +68,9 @@ Níže jsou popsané wireframes jednotlivých stránek (mobile first):
 - Menu: Auta, Značky, Modely, Motorizace, Uživatelé, Komentáře  
 - Tabulky s entity + akce (edit, delete, add)  
 - Statistiky aktivity uživatelů
+
+### Images
+- ![e-r diagram](e-r diagram.jpeg)
+- ![diagram](diagram.jpeg)
+- ![admin](admin.jpeg)
+- ![wireframes](wireframes.jpeg)
