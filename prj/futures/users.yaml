@@ -1,0 +1,18 @@
+- model: auth.user
+  pk: 2
+  fields:
+    username: "test_user"
+    first_name: "Antonin"
+    last_name: "Koren"
+    email: "test@example.com"
+    is_staff: false
+    is_active: true
+    date_joined: "2025-01-01T00:00:00Z"
+
+- model: auth.user
+  pk: 3
+  fields:
+    username: "moderator"
+    is_staff: true
+    is_active: true
+    date_joined: "2025-01-01T00:00:00Z"

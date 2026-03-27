@@ -62,4 +62,4 @@ class Hodnoceni(models.Model):
 
     def __str__(self):
         return str(self.hodnota)
-e=models.CASCADE)
+e=models.CASCADE
